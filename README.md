@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Zelayan
+- 👋 Hi, 我是陈啧啧呀
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Zelayan/Zelayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+知乎：https://www.zhihu.com/people/chenzezeya
+
+B站：https://space.bilibili.com/81239427
