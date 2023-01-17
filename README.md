@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-知乎：https://www.zhihu.com/people/chenzezeya
-
-B站：https://space.bilibili.com/81239427
+联系我
+- [知乎](https://www.zhihu.com/people/chenzezeya)
+- [B站](https://space.bilibili.com/81239427)
+- [语雀](https://www.yuque.com/chenzeze)
